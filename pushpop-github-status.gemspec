@@ -4,7 +4,7 @@ require 'pushpop-github-status/version'
 
 Gem::Specification.new do |s|
   s.name = "pushpop-github-status"
-  s.version = Pushpop::GithubStatus::VERSION
+  s.version = Pushpop::GithubStatusVersion
   s.authors = ["Will Barrett"]
   s.email = "will@tallgreentree.com"
   s.homepage = "https://github.com/willbarrett/pushpop-github-status"
