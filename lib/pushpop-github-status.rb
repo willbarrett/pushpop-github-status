@@ -6,7 +6,7 @@ module Pushpop
 
   class GithubStatus < Step
 
-    PLUGIN_NAME = 'githubstatus'
+    PLUGIN_NAME = 'github_status'
 
     Pushpop::Job.register_plugin(GithubStatus::PLUGIN_NAME, GithubStatus)
 
