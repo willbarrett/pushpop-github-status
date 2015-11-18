@@ -9,6 +9,7 @@ Gem::Specification.new do |s|
   s.email = "will@tallgreentree.com"
   s.homepage = "https://github.com/willbarrett/pushpop-github-status"
   s.summary = "Pushpop plugin for reading Github's status"
+  s.description = "A plugin for the pushpop integration system for reading Github's current status from status.github.com"
 
   s.add_dependency "pushpop"
   s.add_dependency "http"
